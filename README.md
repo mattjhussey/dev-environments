@@ -1,2 +1,2 @@
-# dev-environments
-IAC files for the bases of my dev environments (e.g. vagrant, docker, ansible)
+# docker-devenv-ubuntu-cpp
+IAC files building my ubuntu docker development environment for C++
